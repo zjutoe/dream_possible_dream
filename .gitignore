@@ -30,3 +30,9 @@
 *.vrb
 *.xdy
 *.tdo
+
+#Editor backup files
+*~
+\#*\#
+
+*.pdf

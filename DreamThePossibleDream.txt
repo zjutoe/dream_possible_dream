@@ -29,7 +29,9 @@ Introduction
 
  
 
-It is an honor and a pleasure to accept this award from ACM.  It is especially gratifying to share this award with Ed Feigenbaum who has been a close friend and helpful colleague for nearly 30 years.
+It is an honor and a pleasure to accept this award from ACM.  It is
+especially gratifying to share this award with Ed Feigenbaum who has
+been a close friend and helpful colleague for nearly 30 years.
 
  
 
